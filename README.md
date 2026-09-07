@@ -4,7 +4,7 @@ Dependable and motivated BSIT student with a strong foundation in Web Developmen
 
 ---
 ### 📚 Education
-- **BS Information Technology:** [New Era University](https://neu.edu.ph/main/) 2022-Present
+- **BS Information Technology:** [New Era University](https://neu.edu.ph/main/) (2022-Present)
 
 ---
 
