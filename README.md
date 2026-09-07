@@ -1,6 +1,6 @@
 # Hi, I'm [Nhur Brianne Hamdan](https://github.com/NhurBrianneHamdan) 👋 (Ian)
 
-Dependable and motivated BSIT student with a strong foundation in Web Development. Comfortable working across technical and non-technical tasks, with strong written communication skills and a genuine eagerness to learn on the job. 
+Dependable and motivated BSIT student with a strong interest and foundation in Web Development, UI/UX design and technical support. Comfortable working across technical and non-technical tasks, with strong written communication skills and a genuine eagerness to learn on the job. 
 
 ---
 ### 📚 Education
