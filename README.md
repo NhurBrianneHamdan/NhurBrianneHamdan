@@ -10,11 +10,15 @@ Dependable and motivated BSIT student with a strong foundation in Web Developmen
 
 ### 🛠️ Skills
 - **Web Development:** HTML, CSS, JavaScript
-- **APIs:** REST API design & documentation (Swagger)
-- **Systems Integration & Architecture**
+- **UI/UX Design**
 - **Hardware & Software Troubleshooting**
+- **Database**: IBM DB2 Cloud
 
 ---
+
+### 📜 Certifications
+- **freeCodeCamp - Responsive Web Design** [View Certificate](https://www.freecodecamp.org/certification/kkomi/responsive-web-design-v9)
+- **SQL and Relational Databases 101** [View Certificate](https://courses.cognitiveclass.ai/certificates/943135711bba47088e21b16c6b00201c)
 
 ### 📫 Reach Me
 - Email: hamdannhurbrianne@gmail.com
