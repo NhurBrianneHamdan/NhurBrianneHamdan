@@ -1,8 +1,8 @@
 # Hi, I'm [Nhur Brianne Hamdan](https://github.com/NhurBrianneHamdan) 👋 (Ian)
 
--🎓 4th Year BS Information Technology student at New Era University, Quezon City
--🌱 Currently building my project portfolio ahead of OJT
--💬 Interested in web development, systems integration, and API design
+🎓 4th Year BS Information Technology student at New Era University, Quezon City
+🌱 Currently building my project portfolio ahead of OJT
+💬 Interested in web development, systems integration, and API design
 
 ---
 ### 📚 Education
