@@ -17,8 +17,9 @@ Dependable and motivated BSIT student with a strong foundation in Web Developmen
 ---
 
 ### 📜 Certifications
-- **freeCodeCamp - Responsive Web Design** [View Certificate](https://www.freecodecamp.org/certification/kkomi/responsive-web-design-v9)
+- **Responsive Web Design** [View Certificate](https://www.freecodecamp.org/certification/kkomi/responsive-web-design-v9)
 - **SQL and Relational Databases 101** [View Certificate](https://courses.cognitiveclass.ai/certificates/943135711bba47088e21b16c6b00201c)
+- **NoSQL and DBaaS 101** [View Certificate](https://courses.cognitiveclass.ai/certificates/74ca3bee29cb4cfd87f9227263fb59a8)
 
 ### 📫 Reach Me
 - Email: hamdannhurbrianne@gmail.com
